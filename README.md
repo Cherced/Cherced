@@ -22,10 +22,6 @@
 
 #### :computer: Programming languages and tools: 
 <p>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
-<code><img width="10%" src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097811.png?token=exp=1646670797~hmac=f86336aa6efa7da98e951b75d4b8da66"></code>
-<code><img width="10%" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"></code>
-<br />
 <br />
 <code><img width="10%" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></code>
 <code><img width="10%" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25"></code>
