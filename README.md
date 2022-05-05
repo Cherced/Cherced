@@ -5,8 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cherced/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Chernandezcediel@gmail.com)
 
-<h2>Welcome to my Github page! I am (Camilo Hernandez Cediel) => cherced(); 
-and I am currently a Platzi MASTER Student!</h2>
+<h2>Welcome to my Github page! I am (Camilo Hernandez Cediel) => cherced(); </h2>
+<h3>and I am currently a Platzi MASTER Student!</h3>
 
 <img align="right" alt="img" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="50%" height="auto" />
 
