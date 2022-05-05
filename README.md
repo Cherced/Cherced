@@ -48,13 +48,6 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
 &nbsp;
- <a href='https://www.react.org/'>
-   <img src='https://img.shields.io/badge/react-61DAFB?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' />
- </a>
-  &nbsp;
-  <a href='https://nextjs.org/'>
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </a>
 </p><hr/>
 <h4 align="center">Dev Tools</h4>
 <p align="center">
