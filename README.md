@@ -7,7 +7,7 @@
 
 <h2>Welcome to my Github page! I am (Camilo Hernandez Cediel) => cherced(); </h2>
 <code><img width="10%" src="https://static.platzi.com/static/images/footer/logo.png"></code> <a href="https://platzi.com/p/Cherced/">  => Go to my Profile </a>
-<h3>Currently Platzi MASTER Student!</h3>
+<h3>Currently a Platzi MASTER Student!</h3>
 
 <img align="right" alt="img" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="50%" height="auto" />
 
