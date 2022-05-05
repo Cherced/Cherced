@@ -14,6 +14,8 @@
 - Finish my studies in platzi master
 - Taking online courses about Frontend and Backend
 
+<code><img width="10%" src="https://static.platzi.com/static/images/footer/logo.png"></code>
+
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
