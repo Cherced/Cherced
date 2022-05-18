@@ -74,6 +74,6 @@
 
 <h4 align="center">GitHub Stats</h4>
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Cherced&theme=dark&show_icons=true&line_height=27&" alt="JimmyOsma" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Cherced&theme=dark&show_icons=true&line_height=27&" alt="Cherced" />
 </a>
 
